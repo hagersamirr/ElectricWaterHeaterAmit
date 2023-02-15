@@ -1,0 +1,912 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                              MCAL/TMR_program.o (__udivmodhi4)
+c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              C:/Microship/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32a/avr5/crtatmega32a.o (exit)
+c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              HAL/SSD_PROGRAM.o (__tablejump2__)
+c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              main.o (__do_copy_data)
+c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              main.o (__do_clear_bss)
+c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                              HAL/SSD_PROGRAM.o (__umulhisi3)
+c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+                              HAL/LM35_PROGRAM.o (__muluhisi3)
+
+Allocating common symbols
+Common symbol       size              file
+
+Number_Of_Presses   0x1               main.o
+Sensor_temp         0x4               main.o
+Temprature_Array    0xa               main.o
+Down_Button_Pressed
+                    0x1               main.o
+Set_Mode            0x1               main.o
+Enter_Set_Mode      0x1               main.o
+Normal_mode         0x1               main.o
+Up_Button_Pressed   0x1               main.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Microship/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32a/avr5/crtatmega32a.o
+ .bss           0x00000000        0x0 C:/Microship/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32a/avr5/crtatmega32a.o
+ .text          0x00000000        0x0 HAL/EEPROM_program.o
+ .data          0x00000000        0x0 HAL/EEPROM_program.o
+ .bss           0x00000000        0x0 HAL/EEPROM_program.o
+ .text.EERPOM_INIT
+                0x00000000       0x18 HAL/EEPROM_program.o
+ .text.EEPROM_writeByte
+                0x00000000       0x3c HAL/EEPROM_program.o
+ .text.EEPROM_readByte
+                0x00000000       0x46 HAL/EEPROM_program.o
+ .debug_info    0x00000000      0x359 HAL/EEPROM_program.o
+ .debug_abbrev  0x00000000      0x13f HAL/EEPROM_program.o
+ .debug_loc     0x00000000      0x231 HAL/EEPROM_program.o
+ .debug_aranges
+                0x00000000       0x30 HAL/EEPROM_program.o
+ .debug_ranges  0x00000000       0x20 HAL/EEPROM_program.o
+ .debug_line    0x00000000      0x1b7 HAL/EEPROM_program.o
+ .debug_str     0x00000000      0x2d8 HAL/EEPROM_program.o
+ .comment       0x00000000       0x31 HAL/EEPROM_program.o
+ .debug_frame   0x00000000       0x68 HAL/EEPROM_program.o
+ .text          0x00000000        0x0 HAL/FAN_PROGRAM.o
+ .data          0x00000000        0x0 HAL/FAN_PROGRAM.o
+ .bss           0x00000000        0x0 HAL/FAN_PROGRAM.o
+ .text          0x00000000        0x0 HAL/HEATING_ELEMENT_PROGRAM.o
+ .data          0x00000000        0x0 HAL/HEATING_ELEMENT_PROGRAM.o
+ .bss           0x00000000        0x0 HAL/HEATING_ELEMENT_PROGRAM.o
+ .text.HEATING_ELEMENT_TOGGLE
+                0x00000000        0xa HAL/HEATING_ELEMENT_PROGRAM.o
+ .text          0x00000000        0x0 HAL/LM35_PROGRAM.o
+ .data          0x00000000        0x0 HAL/LM35_PROGRAM.o
+ .bss           0x00000000        0x0 HAL/LM35_PROGRAM.o
+ .text          0x00000000        0x0 HAL/SSD_PROGRAM.o
+ .data          0x00000000        0x0 HAL/SSD_PROGRAM.o
+ .bss           0x00000000        0x0 HAL/SSD_PROGRAM.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text.A_Get_Average_Last_10_Readings
+                0x00000000       0x6e main.o
+ .bss.Local_U32_Sum
+                0x00000000        0x4 main.o
+ .bss.Local_U8_Counter
+                0x00000000        0x1 main.o
+ .bss.Temprature_Array_Counter
+                0x00000000        0x1 main.o
+ .bss.LM35_Reading
+                0x00000000        0x1 main.o
+ .text          0x00000000        0x0 MCAL/ADC_program.o
+ .data          0x00000000        0x0 MCAL/ADC_program.o
+ .bss           0x00000000        0x0 MCAL/ADC_program.o
+ .text          0x00000000        0x0 MCAL/DIO_program.o
+ .data          0x00000000        0x0 MCAL/DIO_program.o
+ .bss           0x00000000        0x0 MCAL/DIO_program.o
+ .text.DIO_getPinValue
+                0x00000000       0xa4 MCAL/DIO_program.o
+ .text.DIO_setInputPinResistance
+                0x00000000       0x70 MCAL/DIO_program.o
+ .text.DIO_setPortDirection
+                0x00000000       0x54 MCAL/DIO_program.o
+ .text.DIO_setPortValue
+                0x00000000       0x24 MCAL/DIO_program.o
+ .text.DIO_getPortValue
+                0x00000000       0x3a MCAL/DIO_program.o
+ .text.DIO_togglePortValue
+                0x00000000       0x34 MCAL/DIO_program.o
+ .text.DIO_setInputPortResistance
+                0x00000000       0x2c MCAL/DIO_program.o
+ .text          0x00000000        0x0 MCAL/EXTI_program.o
+ .data          0x00000000        0x0 MCAL/EXTI_program.o
+ .bss           0x00000000        0x0 MCAL/EXTI_program.o
+ .text.EXTI_disable
+                0x00000000       0x24 MCAL/EXTI_program.o
+ .text.EXTI_INT2SetCallBack
+                0x00000000        0xe MCAL/EXTI_program.o
+ .text          0x00000000        0x0 MCAL/GI_program.o
+ .data          0x00000000        0x0 MCAL/GI_program.o
+ .bss           0x00000000        0x0 MCAL/GI_program.o
+ .text.GI_disable
+                0x00000000        0x8 MCAL/GI_program.o
+ .text          0x00000000        0x0 MCAL/I2C_PROGRAM.o
+ .data          0x00000000        0x0 MCAL/I2C_PROGRAM.o
+ .bss           0x00000000        0x0 MCAL/I2C_PROGRAM.o
+ .text.I2C_initMaster
+                0x00000000       0x1e MCAL/I2C_PROGRAM.o
+ .text.I2C_initSlave
+                0x00000000       0x1c MCAL/I2C_PROGRAM.o
+ .text.I2C_Send_StartCondition
+                0x00000000       0x1c MCAL/I2C_PROGRAM.o
+ .text.I2C_Repeated_StartCondition
+                0x00000000       0x1c MCAL/I2C_PROGRAM.o
+ .text.I2C_Send_StopCondition
+                0x00000000        0xe MCAL/I2C_PROGRAM.o
+ .text.I2C_Send_Slave_Address_Write
+                0x00000000       0x26 MCAL/I2C_PROGRAM.o
+ .text.I2C_Send_Slave_Address_Read
+                0x00000000       0x26 MCAL/I2C_PROGRAM.o
+ .text.I2C_SendMasterDataByte
+                0x00000000       0x18 MCAL/I2C_PROGRAM.o
+ .text.I2C_ReadMasterDataByte
+                0x00000000       0x20 MCAL/I2C_PROGRAM.o
+ .debug_info    0x00000000      0x1b8 MCAL/I2C_PROGRAM.o
+ .debug_abbrev  0x00000000       0x83 MCAL/I2C_PROGRAM.o
+ .debug_loc     0x00000000       0xb8 MCAL/I2C_PROGRAM.o
+ .debug_aranges
+                0x00000000       0x60 MCAL/I2C_PROGRAM.o
+ .debug_ranges  0x00000000       0x50 MCAL/I2C_PROGRAM.o
+ .debug_line    0x00000000      0x229 MCAL/I2C_PROGRAM.o
+ .debug_str     0x00000000      0x276 MCAL/I2C_PROGRAM.o
+ .comment       0x00000000       0x31 MCAL/I2C_PROGRAM.o
+ .debug_frame   0x00000000       0xa4 MCAL/I2C_PROGRAM.o
+ .text          0x00000000        0x0 MCAL/TMR_program.o
+ .data          0x00000000        0x0 MCAL/TMR_program.o
+ .bss           0x00000000        0x0 MCAL/TMR_program.o
+ .text.TMR_timer0SetCompareMatchValue
+                0x00000000        0x4 MCAL/TMR_program.o
+ .text.TMR_timer0_CTC_SetCallBack
+                0x00000000        0xe MCAL/TMR_program.o
+ .text.TMR_timer1Init
+                0x00000000       0x2e MCAL/TMR_program.o
+ .text.TMR_timer1start
+                0x00000000       0x14 MCAL/TMR_program.o
+ .text.TMR_timer1stop
+                0x00000000       0x14 MCAL/TMR_program.o
+ .text.TMR_timer1SetCompareMatchAValue
+                0x00000000        0x6 MCAL/TMR_program.o
+ .text.TMR_ICU_init
+                0x00000000       0x38 MCAL/TMR_program.o
+ .text.TMR_ICU_getTotalPeriod
+                0x00000000       0x24 MCAL/TMR_program.o
+ .text.TMR_ICU_getDutyCycle
+                0x00000000       0x26 MCAL/TMR_program.o
+ .text          0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.div
+                0x00000000       0x28 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00008000         xr
+data             0x00800060         0x00000800         rw !x
+eeprom           0x00810000         0x00000400         rw !x
+fuse             0x00820000         0x00000002         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Microship/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32a/avr5/crtatmega32a.o
+LOAD HAL/EEPROM_program.o
+LOAD HAL/FAN_PROGRAM.o
+LOAD HAL/HEATING_ELEMENT_PROGRAM.o
+LOAD HAL/LM35_PROGRAM.o
+LOAD HAL/SSD_PROGRAM.o
+LOAD main.o
+LOAD MCAL/ADC_program.o
+LOAD MCAL/DIO_program.o
+LOAD MCAL/EXTI_program.o
+LOAD MCAL/GI_program.o
+LOAD MCAL/I2C_PROGRAM.o
+LOAD MCAL/TMR_program.o
+START GROUP
+LOAD c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD C:/Microship/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32a/avr5\libatmega32a.a
+END GROUP
+                [0x00000000]                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800060]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0xe4e
+ *(.vectors)
+ .vectors       0x00000000       0x54 C:/Microship/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32a/avr5/crtatmega32a.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.SSD_DigitDisplayTens
+                0x00000054       0x14 HAL/SSD_PROGRAM.o
+ .progmem.gcc_sw_table.SSD_DigitDisplayUnits
+                0x00000068       0x14 HAL/SSD_PROGRAM.o
+                0x0000007c                . = ALIGN (0x2)
+                0x0000007c                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000007c        0x0 linker stubs
+ *(.trampolines*)
+                0x0000007c                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x0000007c                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000007c                __ctors_start = .
+ *(.ctors)
+                0x0000007c                __ctors_end = .
+                0x0000007c                __dtors_start = .
+ *(.dtors)
+                0x0000007c                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000007c        0x0 C:/Microship/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32a/avr5/crtatmega32a.o
+                0x0000007c                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000007c        0xc C:/Microship/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32a/avr5/crtatmega32a.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000088       0x16 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x00000088                __do_copy_data
+ .init4         0x0000009e       0x10 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x0000009e                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000ae        0x8 C:/Microship/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32a/avr5/crtatmega32a.o
+ *(.init9)
+ *(.text)
+ .text          0x000000b6        0x4 C:/Microship/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32a/avr5/crtatmega32a.o
+                0x000000b6                __vector_12
+                0x000000b6                __bad_interrupt
+                0x000000b6                __vector_13
+                0x000000b6                __vector_17
+                0x000000b6                __vector_19
+                0x000000b6                __vector_7
+                0x000000b6                __vector_5
+                0x000000b6                __vector_4
+                0x000000b6                __vector_9
+                0x000000b6                __vector_15
+                0x000000b6                __vector_8
+                0x000000b6                __vector_14
+                0x000000b6                __vector_16
+                0x000000b6                __vector_18
+                0x000000b6                __vector_20
+                0x000000ba                . = ALIGN (0x2)
+ *(.text.*)
+ .text.Fan_init
+                0x000000ba        0xc HAL/FAN_PROGRAM.o
+                0x000000ba                Fan_init
+ .text.Fan_SET_ON
+                0x000000c6        0xc HAL/FAN_PROGRAM.o
+                0x000000c6                Fan_SET_ON
+ .text.Fan_SET_OFF
+                0x000000d2        0xc HAL/FAN_PROGRAM.o
+                0x000000d2                Fan_SET_OFF
+ .text.HEATING_ELEMENT_INIT
+                0x000000de        0xc HAL/HEATING_ELEMENT_PROGRAM.o
+                0x000000de                HEATING_ELEMENT_INIT
+ .text.HEATING_ELEMENT_START
+                0x000000ea        0xc HAL/HEATING_ELEMENT_PROGRAM.o
+                0x000000ea                HEATING_ELEMENT_START
+ .text.HEATING_ELEMENT_STOP
+                0x000000f6        0xc HAL/HEATING_ELEMENT_PROGRAM.o
+                0x000000f6                HEATING_ELEMENT_STOP
+ .text.LM35_Init
+                0x00000102        0x6 HAL/LM35_PROGRAM.o
+                0x00000102                LM35_Init
+ .text.LM35_Read
+                0x00000108       0x4c HAL/LM35_PROGRAM.o
+                0x00000108                LM35_Read
+ .text.SSD_DigitDisplayTens
+                0x00000154      0x1b8 HAL/SSD_PROGRAM.o
+ .text.SSD_DigitDisplayUnits
+                0x0000030c      0x1b8 HAL/SSD_PROGRAM.o
+ .text.SSD_Init
+                0x000004c4       0x66 HAL/SSD_PROGRAM.o
+                0x000004c4                SSD_Init
+ .text.SSD_BLINK
+                0x0000052a       0x28 HAL/SSD_PROGRAM.o
+                0x0000052a                SSD_BLINK
+ .text.SSD_WriteNumber
+                0x00000552       0x5c HAL/SSD_PROGRAM.o
+                0x00000552                SSD_WriteNumber
+ .text.OVF_Timer0
+                0x000005ae        0xc main.o
+                0x000005ae                OVF_Timer0
+ .text.SitHigh  0x000005ba       0x1e main.o
+                0x000005ba                SitHigh
+ .text.SitLow   0x000005d8       0x1e main.o
+                0x000005d8                SitLow
+ .text.main     0x000005f6      0x1ac main.o
+                0x000005f6                main
+ .text.ADC_init
+                0x000007a2       0x32 MCAL/ADC_program.o
+                0x000007a2                ADC_init
+ .text.ADC_getDigitalValue
+                0x000007d4       0x3a MCAL/ADC_program.o
+                0x000007d4                ADC_getDigitalValue
+ .text.DIO_setPinDirection
+                0x0000080e       0xec MCAL/DIO_program.o
+                0x0000080e                DIO_setPinDirection
+ .text.DIO_setPinValue
+                0x000008fa       0xec MCAL/DIO_program.o
+                0x000008fa                DIO_setPinValue
+ .text.DIO_togglePinValue
+                0x000009e6       0x70 MCAL/DIO_program.o
+                0x000009e6                DIO_togglePinValue
+ .text.EXTI_enable
+                0x00000a56       0xc8 MCAL/EXTI_program.o
+                0x00000a56                EXTI_enable
+ .text.EXTI_INT0SetCallBack
+                0x00000b1e        0xe MCAL/EXTI_program.o
+                0x00000b1e                EXTI_INT0SetCallBack
+ .text.EXTI_INT1SetCallBack
+                0x00000b2c        0xe MCAL/EXTI_program.o
+                0x00000b2c                EXTI_INT1SetCallBack
+ .text.__vector_1
+                0x00000b3a       0x52 MCAL/EXTI_program.o
+                0x00000b3a                __vector_1
+ .text.__vector_2
+                0x00000b8c       0x52 MCAL/EXTI_program.o
+                0x00000b8c                __vector_2
+ .text.__vector_3
+                0x00000bde       0x52 MCAL/EXTI_program.o
+                0x00000bde                __vector_3
+ .text.GI_enable
+                0x00000c30        0x8 MCAL/GI_program.o
+                0x00000c30                GI_enable
+ .text.TMR_timer0Init
+                0x00000c38       0x18 MCAL/TMR_program.o
+                0x00000c38                TMR_timer0Init
+ .text.TMR_timer0start
+                0x00000c50       0x14 MCAL/TMR_program.o
+                0x00000c50                TMR_timer0start
+ .text.TMR_timer0stop
+                0x00000c64       0x14 MCAL/TMR_program.o
+                0x00000c64                TMR_timer0stop
+ .text.TMR_timer0_OVF_SetCallBack
+                0x00000c78        0xe MCAL/TMR_program.o
+                0x00000c78                TMR_timer0_OVF_SetCallBack
+ .text.__vector_11
+                0x00000c86       0x76 MCAL/TMR_program.o
+                0x00000c86                __vector_11
+ .text.__vector_10
+                0x00000cfc       0x72 MCAL/TMR_program.o
+                0x00000cfc                __vector_10
+ .text.__vector_6
+                0x00000d6e       0x9c MCAL/TMR_program.o
+                0x00000d6e                __vector_6
+ .text.libgcc   0x00000e0a        0xc c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x00000e0a                __tablejump2__
+ .text.libgcc.mul
+                0x00000e16       0x1e c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                0x00000e16                __umulhisi3
+ .text.libgcc.mul
+                0x00000e34       0x16 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+                0x00000e34                __muluhisi3
+                0x00000e4a                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000e4a        0x0 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00000e4a                _exit
+                0x00000e4a                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000e4a        0x4 c:/microship/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000e4e                _etext = .
+
+.data           0x00800060        0x2 load address 0x00000e4e
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.Set_Temprature
+                0x00800060        0x1 main.o
+                0x00800060                Set_Temprature
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x00800062                . = ALIGN (0x2)
+ *fill*         0x00800061        0x1 
+                0x00800062                _edata = .
+                0x00800062                PROVIDE (__data_end, .)
+
+.bss            0x00800062       0x2b
+                0x00800062                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.INT2pCallBack
+                0x00800062        0x2 MCAL/EXTI_program.o
+ .bss.INT1pCallBack
+                0x00800064        0x2 MCAL/EXTI_program.o
+ .bss.INT0pCallBack
+                0x00800066        0x2 MCAL/EXTI_program.o
+ .bss.oldValue.1672
+                0x00800068        0x2 MCAL/TMR_program.o
+ .bss.flag.1671
+                0x0080006a        0x1 MCAL/TMR_program.o
+ .bss.CounterValue.1673
+                0x0080006b        0x2 MCAL/TMR_program.o
+ .bss.counterCTC.1644
+                0x0080006d        0x2 MCAL/TMR_program.o
+ .bss.counterOVF.1638
+                0x0080006f        0x2 MCAL/TMR_program.o
+ .bss.TMR_ICU_offPeriod
+                0x00800071        0x2 MCAL/TMR_program.o
+ .bss.TMR_ICU_onPeriod
+                0x00800073        0x2 MCAL/TMR_program.o
+ .bss.TMR_timer0_ctc_pCallBack
+                0x00800075        0x2 MCAL/TMR_program.o
+ .bss.TMR_timer0_Ovf_pCallBack
+                0x00800077        0x2 MCAL/TMR_program.o
+ *(COMMON)
+ COMMON         0x00800079       0x14 main.o
+                0x00800079                Number_Of_Presses
+                0x0080007a                Sensor_temp
+                0x0080007e                Temprature_Array
+                0x00800088                Down_Button_Pressed
+                0x00800089                Set_Mode
+                0x0080008a                Enter_Set_Mode
+                0x0080008b                Normal_mode
+                0x0080008c                Up_Button_Pressed
+                0x0080008d                PROVIDE (__bss_end, .)
+                0x00000e4e                __data_load_start = LOADADDR (.data)
+                0x00000e50                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080008d        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x0080008d                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 HAL/FAN_PROGRAM.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 HAL/HEATING_ELEMENT_PROGRAM.o
+ .comment       0x00000030       0x31 HAL/LM35_PROGRAM.o
+ .comment       0x00000030       0x31 HAL/SSD_PROGRAM.o
+ .comment       0x00000030       0x31 main.o
+ .comment       0x00000030       0x31 MCAL/ADC_program.o
+ .comment       0x00000030       0x31 MCAL/DIO_program.o
+ .comment       0x00000030       0x31 MCAL/EXTI_program.o
+ .comment       0x00000030       0x31 MCAL/GI_program.o
+ .comment       0x00000030       0x31 MCAL/TMR_program.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c C:/Microship/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32a/avr5/crtatmega32a.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x2b8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x30 HAL/FAN_PROGRAM.o
+ .debug_aranges
+                0x00000030       0x38 HAL/HEATING_ELEMENT_PROGRAM.o
+ .debug_aranges
+                0x00000068       0x28 HAL/LM35_PROGRAM.o
+ .debug_aranges
+                0x00000090       0x40 HAL/SSD_PROGRAM.o
+ .debug_aranges
+                0x000000d0       0x40 main.o
+ .debug_aranges
+                0x00000110       0x28 MCAL/ADC_program.o
+ .debug_aranges
+                0x00000138       0x68 MCAL/DIO_program.o
+ .debug_aranges
+                0x000001a0       0x58 MCAL/EXTI_program.o
+ .debug_aranges
+                0x000001f8       0x28 MCAL/GI_program.o
+ .debug_aranges
+                0x00000220       0x98 MCAL/TMR_program.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x2476
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x4e6 C:/Microship/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32a/avr5/crtatmega32a.o
+ .debug_info    0x000004e6      0x118 HAL/FAN_PROGRAM.o
+ .debug_info    0x000005fe      0x154 HAL/HEATING_ELEMENT_PROGRAM.o
+ .debug_info    0x00000752      0x120 HAL/LM35_PROGRAM.o
+ .debug_info    0x00000872      0xc6f HAL/SSD_PROGRAM.o
+ .debug_info    0x000014e1      0x620 main.o
+ .debug_info    0x00001b01       0xda MCAL/ADC_program.o
+ .debug_info    0x00001bdb      0x2b3 MCAL/DIO_program.o
+ .debug_info    0x00001e8e      0x22b MCAL/EXTI_program.o
+ .debug_info    0x000020b9       0x98 MCAL/GI_program.o
+ .debug_info    0x00002151      0x325 MCAL/TMR_program.o
+
+.debug_abbrev   0x00000000      0xc2c
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x4a3 C:/Microship/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32a/avr5/crtatmega32a.o
+ .debug_abbrev  0x000004a3       0x64 HAL/FAN_PROGRAM.o
+ .debug_abbrev  0x00000507       0x64 HAL/HEATING_ELEMENT_PROGRAM.o
+ .debug_abbrev  0x0000056b       0xb4 HAL/LM35_PROGRAM.o
+ .debug_abbrev  0x0000061f      0x159 HAL/SSD_PROGRAM.o
+ .debug_abbrev  0x00000778      0x170 main.o
+ .debug_abbrev  0x000008e8       0x87 MCAL/ADC_program.o
+ .debug_abbrev  0x0000096f       0xbf MCAL/DIO_program.o
+ .debug_abbrev  0x00000a2e       0xd1 MCAL/EXTI_program.o
+ .debug_abbrev  0x00000aff       0x46 MCAL/GI_program.o
+ .debug_abbrev  0x00000b45       0xe7 MCAL/TMR_program.o
+
+.debug_line     0x00000000     0x1547
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x116 C:/Microship/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32a/avr5/crtatmega32a.o
+ .debug_line    0x00000116       0x8f HAL/FAN_PROGRAM.o
+ .debug_line    0x000001a5       0xb1 HAL/HEATING_ELEMENT_PROGRAM.o
+ .debug_line    0x00000256       0xa2 HAL/LM35_PROGRAM.o
+ .debug_line    0x000002f8      0x41e HAL/SSD_PROGRAM.o
+ .debug_line    0x00000716      0x3ce main.o
+ .debug_line    0x00000ae4       0xd9 MCAL/ADC_program.o
+ .debug_line    0x00000bbd      0x3fe MCAL/DIO_program.o
+ .debug_line    0x00000fbb      0x235 MCAL/EXTI_program.o
+ .debug_line    0x000011f0       0x7a MCAL/GI_program.o
+ .debug_line    0x0000126a      0x2dd MCAL/TMR_program.o
+
+.debug_frame    0x00000000      0x5fc
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x44 HAL/FAN_PROGRAM.o
+ .debug_frame   0x00000044       0x54 HAL/HEATING_ELEMENT_PROGRAM.o
+ .debug_frame   0x00000098       0x44 HAL/LM35_PROGRAM.o
+ .debug_frame   0x000000dc       0x70 HAL/SSD_PROGRAM.o
+ .debug_frame   0x0000014c       0x64 main.o
+ .debug_frame   0x000001b0       0x34 MCAL/ADC_program.o
+ .debug_frame   0x000001e4       0xb4 MCAL/DIO_program.o
+ .debug_frame   0x00000298      0x16c MCAL/EXTI_program.o
+ .debug_frame   0x00000404       0x34 MCAL/GI_program.o
+ .debug_frame   0x00000438      0x1c4 MCAL/TMR_program.o
+
+.debug_str      0x00000000      0xa27
+ *(.debug_str)
+ .debug_str     0x00000000      0x196 C:/Microship/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32a/avr5/crtatmega32a.o
+ .debug_str     0x00000196      0x168 HAL/FAN_PROGRAM.o
+                                0x18f (size before relaxing)
+ .debug_str     0x000002fe       0x8b HAL/HEATING_ELEMENT_PROGRAM.o
+                                0x1e5 (size before relaxing)
+ .debug_str     0x00000389       0x60 HAL/LM35_PROGRAM.o
+                                0x19b (size before relaxing)
+ .debug_str     0x000003e9       0xd3 HAL/SSD_PROGRAM.o
+                                0x245 (size before relaxing)
+ .debug_str     0x000004bc      0x208 main.o
+                                0x48b (size before relaxing)
+ .debug_str     0x000006c4       0x21 MCAL/ADC_program.o
+                                0x181 (size before relaxing)
+ .debug_str     0x000006e5       0xb3 MCAL/DIO_program.o
+                                0x24e (size before relaxing)
+ .debug_str     0x00000798       0xc2 MCAL/EXTI_program.o
+                                0x296 (size before relaxing)
+ .debug_str     0x0000085a       0x20 MCAL/GI_program.o
+                                0x160 (size before relaxing)
+ .debug_str     0x0000087a      0x1ad MCAL/TMR_program.o
+                                0x32c (size before relaxing)
+
+.debug_loc      0x00000000      0xe43
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x48 HAL/LM35_PROGRAM.o
+ .debug_loc     0x00000048      0x31c HAL/SSD_PROGRAM.o
+ .debug_loc     0x00000364       0x48 main.o
+ .debug_loc     0x000003ac       0x21 MCAL/ADC_program.o
+ .debug_loc     0x000003cd      0x49f MCAL/DIO_program.o
+ .debug_loc     0x0000086c      0x3b6 MCAL/EXTI_program.o
+ .debug_loc     0x00000c22      0x221 MCAL/TMR_program.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x218
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x20 HAL/FAN_PROGRAM.o
+ .debug_ranges  0x00000020       0x28 HAL/HEATING_ELEMENT_PROGRAM.o
+ .debug_ranges  0x00000048       0x18 HAL/LM35_PROGRAM.o
+ .debug_ranges  0x00000060       0x30 HAL/SSD_PROGRAM.o
+ .debug_ranges  0x00000090       0x30 main.o
+ .debug_ranges  0x000000c0       0x18 MCAL/ADC_program.o
+ .debug_ranges  0x000000d8       0x58 MCAL/DIO_program.o
+ .debug_ranges  0x00000130       0x48 MCAL/EXTI_program.o
+ .debug_ranges  0x00000178       0x18 MCAL/GI_program.o
+ .debug_ranges  0x00000190       0x88 MCAL/TMR_program.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(HEATER3.elf elf32-avr)
+LOAD linker stubs
